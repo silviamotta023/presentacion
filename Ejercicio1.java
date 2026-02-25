@@ -1,0 +1,9 @@
+public class Ejercicio1 {
+    public static void main(String[] args){
+        double precio_producto = 2000;
+        int cantidad =5;
+        double total = precio_producto * cantidad;
+        System.out.println("El total a pagar es: " + total);
+    }
+}
+
